@@ -143,7 +143,7 @@ body {
 @media (max-width: 768px) {
     /* 시계 스타일 조정 */
     #clock {
-        font-size: 36px;
+        font-size: 60px;
     }
 
     /* 로그인 폼 스타일 조정 */
